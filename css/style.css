@@ -1,5 +1,5 @@
 body{
-  background-color: #EA9E21 ;
+  background-color: linear-gradient(#EA9E21, white) ;
   font-weight: normal;
 }
 .row {
